@@ -1,2 +1,1 @@
-# Repository-Hello-world
-Basic functionality of github repository
+This is a basic program to learning github more in depth.
