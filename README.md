@@ -1,1 +1,1 @@
-This is a basic program to learning github more in depth.
+This is a basic program to learning github more in depth. 
